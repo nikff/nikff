@@ -19,7 +19,8 @@
 
 ### Hello 👋
 
-```const Nik = {
+```
+const Nik = {
 
   languages: ["Node.js", "Python", "Transcript"], //And so many
 
