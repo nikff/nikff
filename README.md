@@ -18,3 +18,8 @@
 
 
 ### Hello 👋
+```const Dark Thunder = {
+
+  languages: ["Node.js", "Python", "Transcript"], //And so many
+
+  favoriteNumber: 9, //I like this number :)```
