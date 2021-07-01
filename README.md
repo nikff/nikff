@@ -20,8 +20,8 @@
 ### Hello 👋
 
 ```
-const Nik = {
+  const Nik = {
 
   languages: ["Node.js", "Python", "Transcript"], //And so many
 
-  favoriteNumber: 9, //I like this number :)```
+  favoriteNumber: 9, //I like this number :)
