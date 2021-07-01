@@ -18,7 +18,8 @@
 
 
 ### Hello 👋
-```const Dark Thunder = {
+
+```const Nik = {
 
   languages: ["Node.js", "Python", "Transcript"], //And so many
 
