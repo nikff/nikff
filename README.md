@@ -20,7 +20,7 @@
 ### Hello 👋
 
 
-  ```
+  ```js
   const Nik = {
 
   languages: ["Node.js", "Python", "Transcript"], //And so many
