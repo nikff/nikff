@@ -19,9 +19,10 @@
 
 ### Hello 👋
 
-```
+
+  ```
   const Nik = {
 
   languages: ["Node.js", "Python", "Transcript"], //And so many
 
-  favoriteNumber: 3, //I like this number :)
+  favoriteNumber: 3, //I like this number :)```
