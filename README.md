@@ -29,3 +29,5 @@
 
   favoriteNumber: 3, //I like this number :)
  ```
+ 
+ [![Nik's GitHub stats](https://github.com/nikff/github-readme-stats)
