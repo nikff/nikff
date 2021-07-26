@@ -14,7 +14,7 @@
 
 
 
-![standard_1](https://user-images.githubusercontent.com/85426789/124129291-4659ac00-da9b-11eb-869c-3c448ddbacdb.gif)
+![standard_1](https://discord.c99.nl/widget/theme-3/837745167812526104.png)
 
 
 ### Hello 👋
