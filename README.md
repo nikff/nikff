@@ -1,3 +1,4 @@
+<p align="center"> <img src="https://discord.c99.nl/widget/theme-3/502406420453654529.png" alt="Discord" /> </p>
 
 
 
@@ -14,7 +15,8 @@
 
 
 
-![standard_1](https://discord.c99.nl/widget/theme-3/837745167812526104.png)
+
+
 
 
 ### Hello 👋
