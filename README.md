@@ -1,4 +1,6 @@
 <p align="center"> <img src="https://discord.c99.nl/widget/theme-3/837745167812526104.png" alt="Discord" /> </p>
+<p align="center"> <img src="https://media.discordapp.net/attachments/912294110742839296/915881455463321640/MOSHED-2021-12-2-13-55-43.gif" alt="Discord" /> </p>
+
 
 
 
